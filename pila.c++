@@ -1,4 +1,5 @@
 #include <iostream>
+#include "ListaPuntatori.cpp"
 using namespace std;
 
 template <typename T>
